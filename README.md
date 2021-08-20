@@ -51,7 +51,7 @@ Deployed SUDT-ERC20 Proxy contract address: 0xD9AF85FcBEc4C60d3a6E3175c88Df58aE2
 
 ## Sign the transaction
 
-![Sign the transaction](images/5_sign_transaction.png)
+![Sign the transaction](images/5_sign_bridge_transaction.png)
 
 ## Wait for the bridge transfer to be completed
 
@@ -60,6 +60,14 @@ Deployed SUDT-ERC20 Proxy contract address: 0xD9AF85FcBEc4C60d3a6E3175c88Df58aE2
 ## Reload the app and see the new amount of ckETH
 
 ![Reload the page](images/7_reload_page.png)
+
+# Gifs
+
+There are also gifs file showing this entire process.
+
+![Gif 1](images/gifs/1.gif)
+![Gif 3](images/gifs/2.gif)
+![Gif 2](images/gifs/3.gif)
 
 # Smart contract : Scores.sol
 
